@@ -1,0 +1,18 @@
+{
+  "name": "ascii-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "figlet": "^1.9.3",
+    "nodemon": "^3.1.10",
+    "vorpal": "^1.12.0"
+  }
+}
